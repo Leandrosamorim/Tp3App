@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TP3App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="p1_textview">TextView</string>
+    <string name="r0_button">Button</string>
+    <string name="r2_button">Button</string>
+    <string name="r1_button" />
+    <string name="r3_button" />
+    <string name="continuar">Continuar</string>
+</resources>
